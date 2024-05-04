@@ -4,8 +4,8 @@ This repository contains MATLAB code for robotics exercises assigned as homework
 
 ## Table of Contents
 
-1. **Homogenous matrices**: Indentify the homogeneous matrix that maps from the base to the end-effector
-2.
+1. **Homogenous matrices:** Indentify the homogeneous matrix that maps from the base to the end-effector
+2. **Vector Parameters:** Define with vector parameters or DH the refrence frames of the robot
 3.
 4.
 5.
