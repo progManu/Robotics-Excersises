@@ -7,7 +7,7 @@ This repository contains MATLAB code for robotics exercises assigned as homework
 1. **Homogenous matrices:** Indentify the homogeneous matrix that maps from the base to the end-effector
 2. **Vector Parameters:** Define with vector parameters or DH the refrence frames of the robot
 3. **Orientations:** Here the objective is to move the end-effector of a painting robot tangent to a plane with a particular painting (curve on it). The end effector must keep the same orientation w.r.t the canvas and follow the trajectory.
-4.
+4. **Kinematics:** This is a 4 dof robot, with 4 rotoidal joints (this are orthogonal or parallel so we can define the robot with DH or ...). The objective is to calculatate the position of the joint variables using the inverse kinematics.
 5.
 6.
 7.
